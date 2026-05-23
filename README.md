@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hey, I'm Sean 👋
 
-<!--
-**Todro5912/Todro5912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student developer from Malaysia** — building games, websites, and exploring AI.
 
-Here are some ideas to get you started:
+Currently in Form 4 (SPM track) at SMJK JITSIN, Bukit Mertajam, Penang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 What I'm Building
+
+- **Virtual Drums Website** — Interactive drum kit in the browser (HTML, CSS, JavaScript, Three.js)
+- **Roblox Games** — Game development with Lua and Roblox Studio
+- **AI & Python Projects** — Exploring LLMs, APIs, and prompt engineering with Claude
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**
+- Python
+- JavaScript
+- HTML / CSS
+- Lua
+
+**Tools & Platforms:**
+- Git & GitHub
+- VS Code / Cursor
+- Roblox Studio
+- Claude (AI)
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript fundamentals (DOM, events, async)
+- CSS (layout, animations, responsive design)
+- Full-stack web development (backend, databases, deployment)
+- AI & LLMs (Anthropic API, prompt engineering)
+
+---
+
+## 📊 GitHub Stats
+
+![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Todro5912&show_icons=true&theme=dark)
+
+---
+
+## 📫 Let's Connect
+
+- **Location:** Bukit Mertajam, Penang, Malaysia
+- **Interests:** Game Dev • Web Dev • AI Engineering
+
+---
+
+*Building in public. Always learning. Let's connect!*
